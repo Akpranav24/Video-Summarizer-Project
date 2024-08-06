@@ -1,0 +1,9 @@
+pydub
+openai-whisper
+googletrans==4.0.0-rc1
+yt-dlp
+requests==2.25.1  # Compatible with idna 2.10
+requests_mock
+clyent==1.2.1
+idna==2.10  # Compatible with requests 2.25.1
+httpx==0.13.3  # Compatible with googletrans 4.0.0-rc1
